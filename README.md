@@ -18,7 +18,8 @@ Here are some redis examples.
 The code is written with redis and python.
 
 ## Usage
-TBD<br />
+https://redislabs.com/resources/how-to-redis-enterprise/<br />
+http://agiliq.com/blog/2015/03/getting-started-with-redis-py/<br />
 
 ### Generator
 
